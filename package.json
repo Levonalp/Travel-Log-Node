@@ -1,0 +1,21 @@
+{
+  "name": "travel-log-app",
+  "version": "1.0.0",
+  "description": "Schema : location,  images for locations,  cost of travel,  heritages of the location.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:tking3612/travel-log-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
